@@ -1,3 +1,5 @@
+# Catarina Devon EA v2.6 MT4 – Free Forex Robot Download
+
 Catarina Devon EA v2.6 MT4 – Free Forex Robot Download
 Catarina Devon EA for MetaTrader 4 is a high-performance, unrestricted forex trading tool designed to provide reliable, automated execution in dynamic market environments. This expert advisor uses a blend of built-in indicators, smart trade recovery logic, and an advanced economic news filter to help you navigate volatility with confidence. Whether you're trading XAUUSD (Gold), EURUSD, or other major pairs, Catarina Devon adapts to price action and delivers strategic entries and exits—automatically.
 
