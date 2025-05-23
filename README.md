@@ -5,13 +5,9 @@ Catarina Devon EA for MetaTrader 4 is a high-performance, unrestricted forex tra
 Catarina Devon EA operates seamlessly with your custom indicators. By simply entering the name of your preferred indicator along with its Buy/Sell signal identifiers, this EA automatically triggers trades based on the received signals—ensuring you never miss an opportunity.
 
 # 🔥 Popular Downloads:
-✅ Top Gold (XAUUSD) EAs – [Download Now]
 
-✅ Best EURUSD Robots – [Download List]
 
-✅ High-Rated Automated Forex Systems – [View Here]
-
-📲 Stay Updated: [Join Our Telegram Group for Instant Alerts]
+📲 Stay Updated: [Join Our Telegram Group for Instant Alerts [Link](https://t.me/+bYapV-Vk1OJjMjFl) 
 
 # 💡 Key Advantages
 Smart Signal Execution: Automatically places buy/sell orders using real-time signals from any indicator.
